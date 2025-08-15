@@ -1,0 +1,41 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.env
+*.venv
+env/
+venv/
+ENV/
+VENV/
+
+# 📦 PyInstaller
+build/
+dist/
+*.spec
+
+# 🗑️ Misc
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# 💻 IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 📦 Packaging
+*.egg-info/
+*.egg
+*.whl
+
+# 🔐 Secrets (optional)
+.env
+*.key
+*.pem
